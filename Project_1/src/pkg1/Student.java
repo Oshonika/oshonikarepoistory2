@@ -12,7 +12,7 @@ public class Student {
 	public static void main(String[] args) 
 	{
 		Student deepak=new Student();
-		deepak.age=22;
+		deepak.age=25;
 		deepak.roll_no=12;
 		System.out.println(deepak.age);
 		System.out.println(deepak.roll_no);
